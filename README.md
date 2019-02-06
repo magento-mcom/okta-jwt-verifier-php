@@ -6,7 +6,7 @@ This library helps you verify tokens that have been issued by Okta.  To learn mo
 The Okta JWT Verifier can be installed through composer.
 
 ```bash
-composer require okta/jwt-verifier
+composer require magento-com/okta-jwt-verifier
 ```
 
 The library is also designed to use your favorite JWT library. We currently support 
