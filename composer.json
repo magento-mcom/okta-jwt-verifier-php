@@ -1,5 +1,5 @@
 {
-    "name": "okta/jwt-verifier",
+    "name": "magento-com/jwt-verifier",
     "description": "A verifier library for working with Okta JWT's",
     "type": "library",
     "license": "Apache-2.0",
@@ -7,6 +7,10 @@
         {
             "name": "Brian Retterer",
             "email": "brian.retterer@okta.com"
+        },
+        {
+            "name": "Javier Carreño",
+            "email": "carreno@adobe.com"
         }
     ],
     "autoload": {
