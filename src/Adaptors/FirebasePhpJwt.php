@@ -19,6 +19,7 @@ namespace Okta\JwtVerifier\Adaptors;
 
 use Okta\JwtVerifier\Jwt;
 use Okta\JwtVerifier\Request;
+use UnexpectedValueException;
 
 class FirebasePhpJwt implements Adaptor
 {
